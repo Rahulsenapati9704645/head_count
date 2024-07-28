@@ -1,0 +1,401 @@
+Start training at 2024-07-13 16:11:30
+Start training at 2024-07-13 16:14:05
+Start training at 2024-07-13 16:21:06
+Start training at 2024-07-13 16:24:33
+Start training at 2024-07-13 16:26:31
+Start training at 2024-07-13 16:38:40
+Start training at 2024-07-13 16:41:44
+Start training at 2024-07-13 16:43:03
+Start training at 2024-07-13 16:44:07
+Start training at 2024-07-13 16:45:46
+Epoch 0: Training loss: 0.3308 Version: sta
+Start training at 2024-07-13 16:48:10
+Epoch 0: Training loss: 0.3308 Version: sta
+Start training at 2024-07-13 16:51:57
+Epoch 0: Training loss: 0.3308 Version: sta
+Start training at 2024-07-13 16:55:23
+Epoch 0: Training loss: 0.3308 Version: sta
+Start training at 2024-07-13 16:59:30
+Epoch 0: Training loss: 0.3308 Version: sta
+Start training at 2024-07-13 17:03:11
+Epoch 0: Training loss: 0.3308 Version: sta
+Epoch 0: Val criterion: 0.3475 best: 10000000000.0000, time: 131.3431
+Epoch 0: saving best model...
+Epoch 1: Training loss: 0.1650 Version: sta
+Epoch 1: Val criterion: 0.3323 best: 0.3475, time: 134.7706
+Epoch 1: saving best model...
+Epoch 2: Training loss: 0.1828 Version: sta
+Epoch 2: Val criterion: 0.3420 best: 0.3323, time: 136.0440
+Epoch 3: Training loss: 0.3385 Version: sta
+Epoch 3: Val criterion: 0.3346 best: 0.3323, time: 133.7638
+Epoch 4: Training loss: 0.3398 Version: sta
+Epoch 4: Val criterion: 0.3378 best: 0.3323, time: 134.7193
+Epoch 5: Training loss: 0.3756 Version: sta
+Epoch 5: Val criterion: 0.3346 best: 0.3323, time: 133.6484
+Epoch 6: Training loss: 0.3028 Version: sta
+Epoch 6: Val criterion: 0.3344 best: 0.3323, time: 134.9543
+Epoch 7: Training loss: 0.4450 Version: sta
+Epoch 7: Val criterion: 0.3402 best: 0.3323, time: 134.1624
+Epoch 8: Training loss: 0.4409 Version: sta
+Epoch 8: Val criterion: 0.3307 best: 0.3323, time: 133.9047
+Epoch 8: saving best model...
+Epoch 9: Training loss: 0.4358 Version: sta
+Epoch 9: Val criterion: 0.3277 best: 0.3307, time: 134.4872
+Epoch 9: saving best model...
+Epoch 10: Training loss: 0.5096 Version: sta
+Epoch 10: Val criterion: 0.3383 best: 0.3277, time: 134.5209
+Epoch 11: Training loss: 0.2414 Version: sta
+Epoch 11: Val criterion: 0.3381 best: 0.3277, time: 134.4989
+Epoch 12: Training loss: 0.2375 Version: sta
+Epoch 12: Val criterion: 0.3376 best: 0.3277, time: 135.5370
+Epoch 13: Training loss: 0.4658 Version: sta
+Epoch 13: Val criterion: 0.3380 best: 0.3277, time: 134.7077
+Epoch 14: Training loss: 0.2864 Version: sta
+Epoch 14: Val criterion: 0.3327 best: 0.3277, time: 131.8840
+Epoch 15: Training loss: 0.1654 Version: sta
+Epoch 15: Val criterion: 0.3327 best: 0.3277, time: 131.2789
+Epoch 16: Training loss: 0.3374 Version: sta
+Epoch 16: Val criterion: 0.3444 best: 0.3277, time: 130.3821
+Epoch 17: Training loss: 0.3676 Version: sta
+Epoch 17: Val criterion: 0.3259 best: 0.3277, time: 131.2771
+Epoch 17: saving best model...
+Epoch 18: Training loss: 0.3399 Version: sta
+Epoch 18: Val criterion: 0.3395 best: 0.3259, time: 130.8200
+Epoch 19: Training loss: 0.2010 Version: sta
+Epoch 19: Val criterion: 0.3473 best: 0.3259, time: 130.4495
+Epoch 20: Training loss: 0.3838 Version: sta
+Epoch 20: Val criterion: 0.3292 best: 0.3259, time: 130.7406
+Epoch 21: Training loss: 0.1820 Version: sta
+Epoch 21: Val criterion: 0.3381 best: 0.3259, time: 131.0823
+Epoch 22: Training loss: 0.3105 Version: sta
+Epoch 22: Val criterion: 0.3225 best: 0.3259, time: 131.2811
+Epoch 22: saving best model...
+Epoch 23: Training loss: 0.5139 Version: sta
+Epoch 23: Val criterion: 0.3284 best: 0.3225, time: 130.2369
+Epoch 24: Training loss: 0.3043 Version: sta
+Epoch 24: Val criterion: 0.3319 best: 0.3225, time: 130.7496
+Epoch 25: Training loss: 0.5001 Version: sta
+Epoch 25: Val criterion: 0.3277 best: 0.3225, time: 130.2393
+Epoch 26: Training loss: 0.2174 Version: sta
+Epoch 26: Val criterion: 0.3316 best: 0.3225, time: 132.1571
+Epoch 27: Training loss: 0.3789 Version: sta
+Epoch 27: Val criterion: 0.3312 best: 0.3225, time: 171.8673
+Epoch 28: Training loss: 0.3909 Version: sta
+Epoch 28: Val criterion: 0.3351 best: 0.3225, time: 153.5806
+Epoch 29: Training loss: 0.2693 Version: sta
+Epoch 29: Val criterion: 0.3284 best: 0.3225, time: 162.9547
+Epoch 30: Training loss: 0.4607 Version: sta
+Epoch 30: Val criterion: 0.3396 best: 0.3225, time: 156.0312
+Epoch 31: Training loss: 0.2949 Version: sta
+Epoch 31: Val criterion: 0.3367 best: 0.3225, time: 157.6662
+Epoch 32: Training loss: 0.2962 Version: sta
+Epoch 32: Val criterion: 0.3215 best: 0.3225, time: 185.9799
+Epoch 32: saving best model...
+Epoch 33: Training loss: 0.2735 Version: sta
+Epoch 33: Val criterion: 0.3208 best: 0.3215, time: 201.1824
+Epoch 33: saving best model...
+Epoch 34: Training loss: 0.3755 Version: sta
+Epoch 34: Val criterion: 0.3314 best: 0.3208, time: 202.6263
+Epoch 35: Training loss: 0.2747 Version: sta
+Epoch 35: Val criterion: 0.3368 best: 0.3208, time: 19979.0142
+Epoch 36: Training loss: 0.3764 Version: sta
+Epoch 36: Val criterion: 0.3259 best: 0.3208, time: 123.3842
+Epoch 37: Training loss: 0.2200 Version: sta
+Epoch 37: Val criterion: 0.3374 best: 0.3208, time: 124.2709
+Epoch 38: Training loss: 0.3143 Version: sta
+Epoch 38: Val criterion: 0.3304 best: 0.3208, time: 123.0321
+Epoch 39: Training loss: 0.2482 Version: sta
+Epoch 39: Val criterion: 0.3256 best: 0.3208, time: 120.2620
+Epoch 40: Training loss: 0.1807 Version: sta
+Epoch 40: Val criterion: 0.3253 best: 0.3208, time: 122.0208
+Epoch 41: Training loss: 0.3661 Version: sta
+Epoch 41: Val criterion: 0.3401 best: 0.3208, time: 122.2356
+Epoch 42: Training loss: 0.1515 Version: sta
+Epoch 42: Val criterion: 0.3290 best: 0.3208, time: 122.0060
+Epoch 43: Training loss: 0.4083 Version: sta
+Epoch 43: Val criterion: 0.3324 best: 0.3208, time: 121.9279
+Epoch 44: Training loss: 0.4173 Version: sta
+Epoch 44: Val criterion: 0.3212 best: 0.3208, time: 121.4371
+Epoch 45: Training loss: 0.2707 Version: sta
+Epoch 45: Val criterion: 0.3279 best: 0.3208, time: 121.0584
+Epoch 46: Training loss: 0.4127 Version: sta
+Epoch 46: Val criterion: 0.3410 best: 0.3208, time: 121.3034
+Epoch 47: Training loss: 0.3450 Version: sta
+Epoch 47: Val criterion: 0.3305 best: 0.3208, time: 122.1467
+Epoch 48: Training loss: 0.1517 Version: sta
+Epoch 48: Val criterion: 0.3313 best: 0.3208, time: 121.3859
+Epoch 49: Training loss: 0.4125 Version: sta
+Epoch 49: Val criterion: 0.3319 best: 0.3208, time: 122.1306
+Epoch 50: Training loss: 0.5503 Version: sta
+Epoch 50: Val criterion: 0.3267 best: 0.3208, time: 122.5971
+Epoch 51: Training loss: 0.3060 Version: sta
+Epoch 51: Val criterion: 0.3299 best: 0.3208, time: 121.5656
+Epoch 52: Training loss: 0.3313 Version: sta
+Epoch 52: Val criterion: 0.3303 best: 0.3208, time: 122.0818
+Epoch 53: Training loss: 0.3565 Version: sta
+Epoch 53: Val criterion: 0.3271 best: 0.3208, time: 122.0596
+Epoch 54: Training loss: 0.3185 Version: sta
+Epoch 54: Val criterion: 0.3443 best: 0.3208, time: 122.1060
+Epoch 55: Training loss: 0.3767 Version: sta
+Epoch 55: Val criterion: 0.3324 best: 0.3208, time: 120.9436
+Epoch 56: Training loss: 0.1551 Version: sta
+Epoch 56: Val criterion: 0.3381 best: 0.3208, time: 121.8987
+Epoch 57: Training loss: 0.3613 Version: sta
+Epoch 57: Val criterion: 0.3428 best: 0.3208, time: 121.5177
+Epoch 58: Training loss: 0.3224 Version: sta
+Epoch 58: Val criterion: 0.3385 best: 0.3208, time: 120.8051
+Epoch 59: Training loss: 0.4519 Version: sta
+Epoch 59: Val criterion: 0.3322 best: 0.3208, time: 121.5851
+Epoch 60: Training loss: 0.3869 Version: sta
+Epoch 60: Val criterion: 0.3426 best: 0.3208, time: 121.6958
+Epoch 61: Training loss: 0.5075 Version: sta
+Epoch 61: Val criterion: 0.3366 best: 0.3208, time: 121.8365
+Epoch 62: Training loss: 0.1451 Version: sta
+Epoch 62: Val criterion: 0.3303 best: 0.3208, time: 121.8279
+Epoch 63: Training loss: 0.2028 Version: sta
+Epoch 63: Val criterion: 0.3206 best: 0.3208, time: 122.4808
+Epoch 63: saving best model...
+Epoch 64: Training loss: 0.3165 Version: sta
+Epoch 64: Val criterion: 0.3351 best: 0.3206, time: 121.6576
+Epoch 65: Training loss: 0.4733 Version: sta
+Epoch 65: Val criterion: 0.3264 best: 0.3206, time: 121.5913
+Epoch 66: Training loss: 0.4103 Version: sta
+Epoch 66: Val criterion: 0.3418 best: 0.3206, time: 121.1879
+Epoch 67: Training loss: 0.4111 Version: sta
+Epoch 67: Val criterion: 0.3336 best: 0.3206, time: 121.5540
+Epoch 68: Training loss: 0.2159 Version: sta
+Epoch 68: Val criterion: 0.3315 best: 0.3206, time: 121.6045
+Epoch 69: Training loss: 0.3408 Version: sta
+Epoch 69: Val criterion: 0.3258 best: 0.3206, time: 121.7305
+Epoch 70: Training loss: 0.4578 Version: sta
+Epoch 70: Val criterion: 0.3329 best: 0.3206, time: 119.9583
+Epoch 71: Training loss: 0.3727 Version: sta
+Epoch 71: Val criterion: 0.3194 best: 0.3206, time: 115.6105
+Epoch 71: saving best model...
+Epoch 72: Training loss: 0.3616 Version: sta
+Epoch 72: Val criterion: 0.3347 best: 0.3194, time: 116.9576
+Epoch 73: Training loss: 0.3586 Version: sta
+Epoch 73: Val criterion: 0.3340 best: 0.3194, time: 115.5470
+Epoch 74: Training loss: 0.3683 Version: sta
+Epoch 74: Val criterion: 0.3224 best: 0.3194, time: 115.3691
+Epoch 75: Training loss: 0.4362 Version: sta
+Epoch 75: Val criterion: 0.3416 best: 0.3194, time: 117.8565
+Epoch 76: Training loss: 0.2985 Version: sta
+Epoch 76: Val criterion: 0.3387 best: 0.3194, time: 115.4065
+Epoch 77: Training loss: 0.3910 Version: sta
+Epoch 77: Val criterion: 0.3391 best: 0.3194, time: 117.8492
+Epoch 78: Training loss: 0.1462 Version: sta
+Epoch 78: Val criterion: 0.3260 best: 0.3194, time: 116.0454
+Epoch 79: Training loss: 0.3883 Version: sta
+Epoch 79: Val criterion: 0.3284 best: 0.3194, time: 117.2047
+Epoch 80: Training loss: 0.3631 Version: sta
+Epoch 80: Val criterion: 0.3360 best: 0.3194, time: 114.5776
+Epoch 81: Training loss: 0.3610 Version: sta
+Epoch 81: Val criterion: 0.3353 best: 0.3194, time: 115.2697
+Epoch 82: Training loss: 0.3060 Version: sta
+Epoch 82: Val criterion: 0.3302 best: 0.3194, time: 115.6861
+Epoch 83: Training loss: 0.3212 Version: sta
+Epoch 83: Val criterion: 0.3264 best: 0.3194, time: 117.1065
+Epoch 84: Training loss: 0.1850 Version: sta
+Epoch 84: Val criterion: 0.3242 best: 0.3194, time: 115.1349
+Epoch 85: Training loss: 0.3106 Version: sta
+Epoch 85: Val criterion: 0.3269 best: 0.3194, time: 116.8460
+Epoch 86: Training loss: 0.2167 Version: sta
+Epoch 86: Val criterion: 0.3388 best: 0.3194, time: 115.9538
+Epoch 87: Training loss: 0.3421 Version: sta
+Epoch 87: Val criterion: 0.3262 best: 0.3194, time: 117.3077
+Epoch 88: Training loss: 0.3329 Version: sta
+Epoch 88: Val criterion: 0.3312 best: 0.3194, time: 116.9628
+Epoch 89: Training loss: 0.2124 Version: sta
+Epoch 89: Val criterion: 0.3304 best: 0.3194, time: 115.5947
+Epoch 90: Training loss: 0.3218 Version: sta
+Epoch 90: Val criterion: 0.3356 best: 0.3194, time: 119.4896
+Epoch 91: Training loss: 0.4990 Version: sta
+Epoch 91: Val criterion: 0.3233 best: 0.3194, time: 121.3027
+Epoch 92: Training loss: 0.3565 Version: sta
+Epoch 92: Val criterion: 0.3264 best: 0.3194, time: 122.1116
+Epoch 93: Training loss: 0.3020 Version: sta
+Epoch 93: Val criterion: 0.3258 best: 0.3194, time: 121.6556
+Epoch 94: Training loss: 0.4306 Version: sta
+Epoch 94: Val criterion: 0.3324 best: 0.3194, time: 121.5447
+Epoch 95: Training loss: 0.3533 Version: sta
+Epoch 95: Val criterion: 0.3293 best: 0.3194, time: 121.5171
+Epoch 96: Training loss: 0.3812 Version: sta
+Epoch 96: Val criterion: 0.3305 best: 0.3194, time: 121.6161
+Epoch 97: Training loss: 0.3260 Version: sta
+Epoch 97: Val criterion: 0.3283 best: 0.3194, time: 121.2834
+Epoch 98: Training loss: 0.2432 Version: sta
+Epoch 98: Val criterion: 0.3324 best: 0.3194, time: 122.4580
+Epoch 99: Training loss: 0.2615 Version: sta
+Epoch 99: Val criterion: 0.3253 best: 0.3194, time: 121.6928
+Epoch 100: Training loss: 0.3605 Version: sta
+Epoch 100: Val criterion: 0.3255 best: 0.3194, time: 121.1183
+Epoch 101: Training loss: 0.3878 Version: sta
+Epoch 101: Val criterion: 0.3288 best: 0.3194, time: 121.6589
+Epoch 102: Training loss: 0.2801 Version: sta
+Epoch 102: Val criterion: 0.3367 best: 0.3194, time: 121.2927
+Epoch 103: Training loss: 0.3636 Version: sta
+Epoch 103: Val criterion: 0.3322 best: 0.3194, time: 121.6894
+Epoch 104: Training loss: 0.3320 Version: sta
+Epoch 104: Val criterion: 0.3279 best: 0.3194, time: 121.6606
+Epoch 105: Training loss: 0.3025 Version: sta
+Epoch 105: Val criterion: 0.3295 best: 0.3194, time: 122.0814
+Epoch 106: Training loss: 0.2185 Version: sta
+Epoch 106: Val criterion: 0.3293 best: 0.3194, time: 121.0936
+Epoch 107: Training loss: 0.3352 Version: sta
+Epoch 107: Val criterion: 0.3342 best: 0.3194, time: 120.6960
+Epoch 108: Training loss: 0.2939 Version: sta
+Epoch 108: Val criterion: 0.3217 best: 0.3194, time: 121.0573
+Epoch 109: Training loss: 0.4084 Version: sta
+Epoch 109: Val criterion: 0.3260 best: 0.3194, time: 121.1687
+Epoch 110: Training loss: 0.3258 Version: sta
+Epoch 110: Val criterion: 0.3263 best: 0.3194, time: 121.7298
+Epoch 111: Training loss: 0.4329 Version: sta
+Epoch 111: Val criterion: 0.3126 best: 0.3194, time: 121.3025
+Epoch 111: saving best model...
+Epoch 112: Training loss: 0.3567 Version: sta
+Epoch 112: Val criterion: 0.3304 best: 0.3126, time: 120.6590
+Epoch 113: Training loss: 0.3062 Version: sta
+Epoch 113: Val criterion: 0.3291 best: 0.3126, time: 120.3643
+Epoch 114: Training loss: 0.1267 Version: sta
+Epoch 114: Val criterion: 0.3354 best: 0.3126, time: 120.6508
+Epoch 115: Training loss: 0.4235 Version: sta
+Epoch 115: Val criterion: 0.3214 best: 0.3126, time: 121.8944
+Epoch 116: Training loss: 0.4817 Version: sta
+Epoch 116: Val criterion: 0.3404 best: 0.3126, time: 121.7919
+Epoch 117: Training loss: 0.3784 Version: sta
+Epoch 117: Val criterion: 0.3265 best: 0.3126, time: 121.2098
+Epoch 118: Training loss: 0.5071 Version: sta
+Epoch 118: Val criterion: 0.3211 best: 0.3126, time: 122.0448
+Epoch 119: Training loss: 0.3263 Version: sta
+Epoch 119: Val criterion: 0.3284 best: 0.3126, time: 120.7433
+Epoch 120: Training loss: 0.4374 Version: sta
+Epoch 120: Val criterion: 0.3268 best: 0.3126, time: 121.8596
+Epoch 121: Training loss: 0.2629 Version: sta
+Epoch 121: Val criterion: 0.3320 best: 0.3126, time: 121.6178
+Epoch 122: Training loss: 0.3454 Version: sta
+Epoch 122: Val criterion: 0.3264 best: 0.3126, time: 120.7950
+Epoch 123: Training loss: 0.3781 Version: sta
+Epoch 123: Val criterion: 0.3235 best: 0.3126, time: 121.0314
+Epoch 124: Training loss: 0.3576 Version: sta
+Epoch 124: Val criterion: 0.3351 best: 0.3126, time: 121.8399
+Epoch 125: Training loss: 0.4168 Version: sta
+Epoch 125: Val criterion: 0.3196 best: 0.3126, time: 121.0532
+Epoch 126: Training loss: 0.4087 Version: sta
+Epoch 126: Val criterion: 0.3239 best: 0.3126, time: 121.8007
+Epoch 127: Training loss: 0.4810 Version: sta
+Epoch 127: Val criterion: 0.3326 best: 0.3126, time: 121.1592
+Epoch 128: Training loss: 0.2924 Version: sta
+Epoch 128: Val criterion: 0.3377 best: 0.3126, time: 120.1352
+Epoch 129: Training loss: 0.3874 Version: sta
+Epoch 129: Val criterion: 0.3284 best: 0.3126, time: 121.7832
+Epoch 130: Training loss: 0.3866 Version: sta
+Epoch 130: Val criterion: 0.3276 best: 0.3126, time: 120.2663
+Epoch 131: Training loss: 0.3702 Version: sta
+Epoch 131: Val criterion: 0.3329 best: 0.3126, time: 120.6848
+Epoch 132: Training loss: 0.2525 Version: sta
+Epoch 132: Val criterion: 0.3347 best: 0.3126, time: 121.6348
+Epoch 133: Training loss: 0.3349 Version: sta
+Epoch 133: Val criterion: 0.3354 best: 0.3126, time: 121.4077
+Epoch 134: Training loss: 0.3136 Version: sta
+Epoch 134: Val criterion: 0.3246 best: 0.3126, time: 121.9632
+Epoch 135: Training loss: 0.2917 Version: sta
+Epoch 135: Val criterion: 0.3282 best: 0.3126, time: 121.7247
+Epoch 136: Training loss: 0.1305 Version: sta
+Epoch 136: Val criterion: 0.3229 best: 0.3126, time: 120.9756
+Epoch 137: Training loss: 0.2774 Version: sta
+Epoch 137: Val criterion: 0.3231 best: 0.3126, time: 120.0889
+Epoch 138: Training loss: 0.3566 Version: sta
+Epoch 138: Val criterion: 0.3271 best: 0.3126, time: 120.7635
+Epoch 139: Training loss: 0.2149 Version: sta
+Epoch 139: Val criterion: 0.3302 best: 0.3126, time: 121.5219
+Epoch 140: Training loss: 0.2935 Version: sta
+Epoch 140: Val criterion: 0.3322 best: 0.3126, time: 121.2998
+Epoch 141: Training loss: 0.2465 Version: sta
+Epoch 141: Val criterion: 0.3295 best: 0.3126, time: 121.5531
+Epoch 142: Training loss: 0.3371 Version: sta
+Epoch 142: Val criterion: 0.3277 best: 0.3126, time: 121.1468
+Epoch 143: Training loss: 0.3790 Version: sta
+Epoch 143: Val criterion: 0.3303 best: 0.3126, time: 120.5096
+Epoch 144: Training loss: 0.4690 Version: sta
+Epoch 144: Val criterion: 0.3266 best: 0.3126, time: 121.2214
+Epoch 145: Training loss: 0.1192 Version: sta
+Epoch 145: Val criterion: 0.3186 best: 0.3126, time: 120.8368
+Epoch 146: Training loss: 0.3236 Version: sta
+Epoch 146: Val criterion: 0.3253 best: 0.3126, time: 120.0336
+Epoch 147: Training loss: 0.4651 Version: sta
+Epoch 147: Val criterion: 0.3340 best: 0.3126, time: 121.2144
+Epoch 148: Training loss: 0.1749 Version: sta
+Epoch 148: Val criterion: 0.3325 best: 0.3126, time: 121.3505
+Epoch 149: Training loss: 0.4246 Version: sta
+Epoch 149: Val criterion: 0.3287 best: 0.3126, time: 121.0324
+Epoch 150: Training loss: 0.4257 Version: sta
+Epoch 150: Val criterion: 0.3343 best: 0.3126, time: 120.1173
+Epoch 151: Training loss: 0.3428 Version: sta
+Epoch 151: Val criterion: 0.3290 best: 0.3126, time: 120.3197
+Epoch 152: Training loss: 0.2943 Version: sta
+Epoch 152: Val criterion: 0.3252 best: 0.3126, time: 120.7017
+Epoch 153: Training loss: 0.3860 Version: sta
+Epoch 153: Val criterion: 0.3324 best: 0.3126, time: 120.5778
+Epoch 154: Training loss: 0.4049 Version: sta
+Epoch 154: Val criterion: 0.3288 best: 0.3126, time: 121.0598
+Epoch 155: Training loss: 0.4170 Version: sta
+Epoch 155: Val criterion: 0.3361 best: 0.3126, time: 121.2186
+Epoch 156: Training loss: 0.2271 Version: sta
+Epoch 156: Val criterion: 0.3328 best: 0.3126, time: 121.1088
+Epoch 157: Training loss: 0.4332 Version: sta
+Epoch 157: Val criterion: 0.3344 best: 0.3126, time: 121.5274
+Epoch 158: Training loss: 0.3827 Version: sta
+Epoch 158: Val criterion: 0.3258 best: 0.3126, time: 120.9044
+Epoch 159: Training loss: 0.1480 Version: sta
+Epoch 159: Val criterion: 0.3288 best: 0.3126, time: 121.6304
+Epoch 160: Training loss: 0.2804 Version: sta
+Epoch 160: Val criterion: 0.3311 best: 0.3126, time: 120.8520
+Epoch 161: Training loss: 0.1998 Version: sta
+Epoch 161: Val criterion: 0.3263 best: 0.3126, time: 120.8421
+Epoch 162: Training loss: 0.2814 Version: sta
+Epoch 162: Val criterion: 0.3205 best: 0.3126, time: 120.5791
+Epoch 163: Training loss: 0.2953 Version: sta
+Epoch 163: Val criterion: 0.3243 best: 0.3126, time: 120.9478
+Epoch 164: Training loss: 0.3539 Version: sta
+Epoch 164: Val criterion: 0.3202 best: 0.3126, time: 121.1149
+Epoch 165: Training loss: 0.3688 Version: sta
+Epoch 165: Val criterion: 0.3222 best: 0.3126, time: 120.3598
+Epoch 166: Training loss: 0.2973 Version: sta
+Epoch 166: Val criterion: 0.3315 best: 0.3126, time: 120.4983
+Epoch 167: Training loss: 0.1551 Version: sta
+Epoch 167: Val criterion: 0.3275 best: 0.3126, time: 120.6622
+Epoch 168: Training loss: 0.3775 Version: sta
+Epoch 168: Val criterion: 0.3273 best: 0.3126, time: 120.1516
+Epoch 169: Training loss: 0.4326 Version: sta
+Epoch 169: Val criterion: 0.3293 best: 0.3126, time: 121.3454
+Epoch 170: Training loss: 0.2455 Version: sta
+Epoch 170: Val criterion: 0.3266 best: 0.3126, time: 120.8761
+Epoch 171: Training loss: 0.4916 Version: sta
+Epoch 171: Val criterion: 0.3235 best: 0.3126, time: 120.2610
+Epoch 172: Training loss: 0.4124 Version: sta
+Epoch 172: Val criterion: 0.3205 best: 0.3126, time: 120.4192
+Epoch 173: Training loss: 0.1848 Version: sta
+Epoch 173: Val criterion: 0.3269 best: 0.3126, time: 120.7545
+Epoch 174: Training loss: 0.4439 Version: sta
+Epoch 174: Val criterion: 0.3294 best: 0.3126, time: 120.4465
+Epoch 175: Training loss: 0.2518 Version: sta
+Epoch 175: Val criterion: 0.3423 best: 0.3126, time: 120.8905
+Epoch 176: Training loss: 0.3851 Version: sta
+Epoch 176: Val criterion: 0.3368 best: 0.3126, time: 120.4629
+Epoch 177: Training loss: 0.3325 Version: sta
+Epoch 177: Val criterion: 0.3246 best: 0.3126, time: 121.1680
+Epoch 178: Training loss: 0.3754 Version: sta
+Epoch 178: Val criterion: 0.3309 best: 0.3126, time: 120.8888
+Epoch 179: Training loss: 0.3079 Version: sta
+Epoch 179: Val criterion: 0.3381 best: 0.3126, time: 121.2274
+Best epoch: 111, best criterion: 0.31259925478308864
+Training results saved to logs/sta
+End training at 2024-07-14 04:48:46
+Start testing at 2024-07-14 13:00:52
+Loading checkpoint from logs/sta/best.pth
+Start testing at 2024-07-14 13:03:01
+Loading checkpoint from logs/sta/best.pth
+Testing results: 
+Testing results saved to logs/sta
+End testing at 2024-07-14 13:03:15
